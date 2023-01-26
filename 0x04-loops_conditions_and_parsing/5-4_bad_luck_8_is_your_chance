@@ -1,26 +1,7 @@
-s4m9bhah
-
-
-
-skNU7<F9{^R6
-
-
-
-
-
-
-
-
-
 #!/usr/bin/env bash
-
 #Displaying "best school", "bad luck", and "good luck", using while, if, elif and else statement
 
-
-
 i=1
-
-
 
 while [ $i -le 10 ]
 
