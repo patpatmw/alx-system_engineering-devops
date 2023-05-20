@@ -1,6 +1,3 @@
-#!/usr/bin/env bash
-#Serving a page with Nginx
-
 server {
     listen 80;
     listen [::]:80 default_server;
